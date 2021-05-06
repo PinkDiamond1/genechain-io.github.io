@@ -1395,7 +1395,7 @@ em {
 .st-navbar-nav-item {
 	position: relative;
 	display: inline-block;
-	padding: 0 30px;
+	padding: 0 15px;
 	font-size: 16px;
 	line-height: 16px;
 	letter-spacing: -.02em;
